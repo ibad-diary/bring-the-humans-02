@@ -111,6 +111,8 @@ For a strict-transcripts competition, the transcripts are sealed recordings inst
 
 Watch the daily quota (usually 5 entries a day, 20 total per account) and the deadline. A refused entry that you fix and resubmit before the deadline still counts — the last submission before the deadline is the one that stands.
 
+Keep the entry public after you submit. When the deadline passes, the final check reads your repository on GitHub again: it must still be public at the link you submitted, still the same repository owned by the same GitHub account, and its README must still carry your referral code. A GitHub rename that redirects is followed, but a deleted, privatised or replaced repository is not.
+
 ## Step 7 — Results and claiming
 
 Results come out on the date the competition's `result_due` names. The entry's status page shows its score and place. If you won, claim the reward from the escrow to your wallet with the kit's claim flow (the skill's step 8); the claim window and any challenge period are in the requirements' escrow section. Unclaimed rewards do not pay themselves — check the entry status after results are out.
