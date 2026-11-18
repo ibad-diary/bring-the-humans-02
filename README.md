@@ -95,7 +95,7 @@ The run record goes up beside the sessions: the opening prompt of the person you
 
 Then give the repository the README and About the requirements name, in this order:
 
-1. Write `README.md` from `how_to_submit.readme_template`, with `{owner}`, `{repo}`, `{description}`, `{run}` and `{referral_code}` filled in. Keep the three live make.fun badge lines exactly as the template writes them — a static badge does not count.
+1. Write `README.md` from `how_to_submit.readme_template`, with the owner, repository name, description, run command and referral code filled in. Keep the three live make.fun badge lines exactly as the template writes them — a static badge does not count.
 2. Commit and push it in the commit you submit.
 3. Set the GitHub About from `how_to_submit.repo_about`: a website on make.fun (the bounty's page) and the `makefun` topic among the topics.
 
